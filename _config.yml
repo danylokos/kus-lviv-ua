@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+title: kus.lviv.ua
+url: "https://kus.lviv.ua/"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -10,15 +10,15 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: kus.lviv.ua
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: kus.lviv.ua
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://kus.lviv.ua
 
 # -----
 # Build
