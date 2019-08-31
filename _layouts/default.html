@@ -25,21 +25,21 @@
 		{% endif %}
 	</head>
 	<body>
-		{% include navigation.html %}
+		<!-- {% include navigation.html %} -->
 		<header>
-			<a href="{{site.baseurl }}/">
+			<!-- <a href="{{site.baseurl }}/">
 				<img src="{{ site.baseurl }}/images/logo.svg" width="180" alt="logo">
-			</a>
+			</a> -->
 		</header>
 		<div class="container main-content">
 			<section class="content">{{ content }}</section>
 			{% include sidebar.html %}
 		</div>
 		<footer>
-			<div class="container">
+			<!-- <div class="container">
 				<hr>
 				&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved.
-			</div>
+			</div> -->
 		</footer>
 	</body>
 </html>
