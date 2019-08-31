@@ -70,6 +70,10 @@ exclude:
   - README.md
   - LICENCE
   - vendor
+  - about.html
+  - recipes.html
+  - contact.html
+  - contact-success.html
 
 # -----------
 # CloudCannon
