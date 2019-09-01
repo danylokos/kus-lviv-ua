@@ -6,13 +6,13 @@ categories:
 featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
 nutrition:
   calories: 77
-  fat: 2
+  fats: 2
   carbs: 10
   protein: 1.7
 recipe:
   servings: 16 печенюшок
-  prep: 10 хв
-  cook: 12 хв
+  serving_title: печиво
+  prep: 20 хв
   ingredients_markdown: |-
     * 120 г вівсянки
     * 50 г мигдалю

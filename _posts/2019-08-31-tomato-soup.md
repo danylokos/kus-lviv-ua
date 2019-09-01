@@ -6,13 +6,13 @@ categories:
 featured_image: https://static01.nyt.com/images/2018/09/10/dining/tomato-soup/tomato-soup-articleLarge.jpg
 nutrition:
   calories: 274
-  fat: 22
+  fats: 22
   carbs: 21
   protein: 4.5
 recipe:
   servings: 2 порції
-  prep: 10 хв
-  cook: 15 хв
+  serving_title: порція
+  prep: 20 хв
   ingredients_markdown: |-
     * 400 г консервованих томатів
     * 1 цибулина

@@ -1,8 +1,8 @@
 <ul id="recipe" class="recipe-overview">
     <li>{% include recipe-icon.html icon="quantity" %}<span>{{ include.post.recipe.servings }}</span></li>
     <li>{% include recipe-icon.html icon="time" %}<span>{{ include.post.recipe.prep }}</span></li>
-    <li>{% include recipe-icon.html icon="cook" %}<span>{{ include.post.recipe.cook }}</span></li>
+    <!-- <li>{% include recipe-icon.html icon="cook" %}<span>{{ include.post.recipe.cook }}</span></li> -->
 
-    <li><span>{{ include.post.nutrition.calories }} ккал</span></li>
-    <li><span>{{ include.post.nutrition.protein }} г білків / {{ include.post.nutrition.fat }} г жирів / {{ include.post.nutrition.carbs }} г вуглеводів</span></li>
+    <li><span>{{ include.post.nutrition.calories }} ккал / {{ include.post.recipe.serving_title }}</span></li>
+    <li><span>{{ include.post.nutrition.protein }} г білків / {{ include.post.nutrition.fats }} г жирів / {{ include.post.nutrition.carbs }} г вуглеводів</span></li>
 </ul>
