@@ -4,8 +4,13 @@ title: Вівсяне печиво цукру та муки!
 categories:
   - Cookies
 featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
+nutrition:
+  calories: 77
+  fat: 2
+  carbs: 10
+  protein: 1.7
 recipe:
-  servings: 17 печенюшок
+  servings: 16 печенюшок
   prep: 10 хв
   cook: 12 хв
   ingredients_markdown: |-
@@ -18,10 +23,10 @@ recipe:
     * трішки кориці
   directions_markdown: |-
     1. Засипаємо все в блендер.
-    3. Вжух!
-    2. Викладає на протвень.
-    4. В дузовку на 12 хв при 210°C.
-    5. Найкраже смакує коли охолоне.
+    1. Вжух!
+    1. Викладає на протвень.
+    1. В дузовку на 12 хв при 210°C.
+    1. Найкраже смакує коли охолоне.
 ---
 Натуральне вівсяне печево без цукру та муки.
 
