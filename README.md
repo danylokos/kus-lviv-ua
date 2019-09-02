@@ -1,6 +1,6 @@
 # kus.lviv.ua
 
-Repo for food/baking blog at https://kus.lviv.ua/.
+Repo for a baking blog at https://kus.lviv.ua/
 
 ## Develop
 
