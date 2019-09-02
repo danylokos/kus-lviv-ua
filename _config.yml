@@ -2,9 +2,9 @@
 # Site
 
 title: kus.lviv.ua
-url: "https://kus.lviv.ua/"
+url: https://kus.lviv.ua/
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-71157008-2
 newsletter_action:
 disqus_shortname:
 
