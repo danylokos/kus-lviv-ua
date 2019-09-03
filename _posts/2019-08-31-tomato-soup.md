@@ -1,9 +1,9 @@
 ---
 date: 2019-08-31
-title: Томатний крем-суп на кокосовому молоці
+title: 🍅 Томатний крем-суп на кокосовому молоці
 categories:
   - Soup
-featured_image: /photos/2019-08-31-tomato-soup/IMG_0819.jpg
+featured_image: https://live.staticflickr.com/65535/48679534246_d9a400bc73_o_d.jpg
 nutrition:
   calories: 274
   fats: 22
@@ -36,38 +36,38 @@ recipe:
 ---
 
 Що нам знадобиться:
-![image](/photos/2019-08-31-tomato-soup/IMG_0646.jpg)
+![image](https://live.staticflickr.com/65535/48679705577_7820858c49_o_d.jpg)
 
 Дрібно нарізаємо цибулю та часник.
-![image](/photos/2019-08-31-tomato-soup/IMG_0687.jpg)
+![image](https://live.staticflickr.com/65535/48679535101_cddba2ea3e_o_d.jpg)
 
 Обсмажуємо їх у каструльці на оливковій олії протягом 5 хв.
-![image](/photos/2019-08-31-tomato-soup/IMG_0709.jpg)
+![image](https://live.staticflickr.com/65535/48679535026_ee8c671277_o_d.jpg)
 
 Виливаємо томатну пасту туди ж та доводимо до кипіння.
-![image](/photos/2019-08-31-tomato-soup/IMG_0734.jpg)
+![image](https://live.staticflickr.com/65535/48679705377_5619fb4303_o_d.jpg)
 
 Нарізаємо гострий перець та базилік.
-![image](/photos/2019-08-31-tomato-soup/IMG_0742.jpg)
+![image](https://live.staticflickr.com/65535/48679534856_8c750e1895_o_d.jpg)
 
 Переливаємо суп з каструлі у блендер, додаємо гострий перець і базилік.
-![image](/photos/2019-08-31-tomato-soup/IMG_0748.jpg)
-![image](/photos/2019-08-31-tomato-soup/IMG_0752.jpg)
+![image](https://live.staticflickr.com/65535/48679193888_8c80a2abe3_o_d.jpg)
+![image](https://live.staticflickr.com/65535/48679705197_efeb4861b8_o_d.jpg)
 
 Вжух!
-![image](/photos/2019-08-31-tomato-soup/IMG_0764.jpg)
+![image](https://live.staticflickr.com/65535/48679705117_eb1e1e7cd0_o_d.jpg)
 
 Додаємо кокосове молоко та перемішуємо.
-![image](/photos/2019-08-31-tomato-soup/IMG_0775.jpg)
-![image](/photos/2019-08-31-tomato-soup/IMG_0779.jpg)
+![image](https://live.staticflickr.com/65535/48679534641_e836042712_o_d.jpg)
+![image](https://live.staticflickr.com/65535/48679194178_feabaef881_o_d.jpg)
 
 Додаємо воду, перчимо та солимо.
-![image](/photos/2019-08-31-tomato-soup/IMG_0787.jpg)
+![image](https://live.staticflickr.com/65535/48679194123_24904807a6_o_d.jpg)
 
 Розливаємо по тарілкам та прикрашаємо базиліком.
-![image](/photos/2019-08-31-tomato-soup/IMG_0791.jpg)
+![image](https://live.staticflickr.com/65535/48679534446_d9dd008fc6_o_d.jpg)
 
 Найкраще смакує з житніми хлібцями.
-![image](/photos/2019-08-31-tomato-soup/IMG_0807.jpg)
+![image](https://live.staticflickr.com/65535/48679534386_07c9ba7a60_o_d.jpg)
 
 М-м-м!
