@@ -4,3 +4,5 @@ _site
 .bundle
 vendor
 .vscode
+
+.DS_Store
